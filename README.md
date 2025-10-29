@@ -1,18 +1,22 @@
 <h1 align="center"><b>Hi , I'm Iván San Martín Farías </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img align="right" width=300px alt="Developer" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- Gif  -->
+<img align="right" width=288px alt="Developer" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<!-- About me  -->
 ## <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57803d70-a2b0-4a96-ab23-f0c7384d1f2f/d4nsey6-c114e315-133d-471e-bcea-522f67d95fdd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NzgwM2Q3MC1hMmIwLTRhOTYtYWIyMy1mMGM3Mzg0ZDFmMmYvZDRuc2V5Ni1jMTE0ZTMxNS0xMzNkLTQ3MWUtYmNlYS01MjJmNjdkOTVmZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jf-zsD-a_fNVYlOR70C_Kah54vSMVPA0c7DZTUQfibg" width="30px"> About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra nulla vel pharetra egestas. Curabitur feugiat orci accumsan ipsum mollis, eu congue arcu feugiat. Donec eu odio lobortis, finibus lectus a, vestibulum metus. Vestibulum sed diam vitae tellus lobortis sagittis. Maecenas ut urna urna. In dignissim urna sit amet est sollicitudin ullamcorper. Mauris maximus orci eget libero feugiat ornare quis nec mi. Proin ultrices at odio et imperdiet.
+<p>🎓 Throughout my studies and after having graduated with a Technical Degree in Computer Programming, I’ve gained hands-on experience by developing custom solutions and automations for entrepreneurs, applying my skills in full stack development.</p>
+<p>🚀 I’m passionate about continuous learning, exploring new technologies, and growing as a developer—always aiming to improve the efficiency and quality of my projects.</p>
+
 - 🌱 I’m currently ...
-  - Finishing my Degree in Computer Science. 
+  - Finishing my Bachelor's Degree in Computer Science. 
   - Developing solutions to support entrepreneurs.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, ⚽ I love playing sports, 🎮 playing videogames, 🎵 listening to music and 📖 reading science articles.
 <br><br>
 
+<!-- Skills  -->
 ## 👨‍💻 My Skills Include
 
 <h3> 💻 Languages </h3>
@@ -57,13 +61,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra nulla
 </span>
 <br><br>
 
+<!-- Github stats  -->
 ## 📊 My GitHub Stats
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanJoshua98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" width="466" height="193">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanJoshua98&show_icons=true&theme=dark&locale=en&layout=compact" width="466" height="193">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanJoshua98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" height="164">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanJoshua98&show_icons=true&theme=dark&locale=en&layout=compact" height="164">
 </span>
 <br><br>
 
+<!-- Contact  -->
 ## 🤝 Connect with me
 <span>
   <a href="ivan.sanmartin98@gmail.com"><img src="https://img.shields.io/badge/-ivan.sanmartin98@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
